@@ -1,8 +1,7 @@
 {
-	"name":"Wedding Day",
-	"thumbnail":"wedding-day.png",
-"screenshot":"wedding-day-screenshot.jpg",
-    "tags": { "en": ["wedding", "event", "marriage", "wedding day"] },
+	"name":"Happiness",
+	"thumbnail":"happiness.png",
+    "screenshot":"happiness-screenshot.jpg",
     "pageTypes":["home"],
     "templateType":"standard",
     "colorSwatches":
